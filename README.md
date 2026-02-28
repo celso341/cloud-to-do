@@ -27,3 +27,11 @@ npm install
 
 # Rodar em modo de desenvolvimento
 npm run dev
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Celso
