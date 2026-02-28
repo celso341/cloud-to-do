@@ -1,24 +1,53 @@
-<h3 align="center">
-    <b>☁️ Cloud To-Do List</b> 
-    <br><br>
-    <b>Organize suas tarefas na nuvem com performance! 🚀</b> 
-</h3>
+<h1 align="center"> ☁️ Cloud To-Do List </h1>
 
-## :bookmark: Sobre
-O **Cloud To-Do** é um gerenciador de tarefas moderno desenvolvido para praticar a gestão de estados complexos e tipagem forte em aplicações React.
+<p align="center">
+  Gerenciador de tarefas moderno focado em alta performance e tipagem segura.
+</p>
 
-## 🚀 Tecnologias usadas
-- [TypeScript](https://www.typescriptlang.org/)
-- [ReactJS](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [CSS Modules](https://github.com/css-modules/css-modules)
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-## :fire: Como usar
-1. Clone o projeto: `$ git clone https://github.com/celso341/cloud-to-do.git`
-2. Instale: `$ npm install`
-3. Inicie: `$ npm run dev`
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Cloud to do" src=".github/preview.jpg" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Este projeto utiliza as tecnologias mais atuais do ecossistema Front-end:
+
+- **React.js** com **Vite** (para um ambiente de desenvolvimento ultra rápido)
+- **TypeScript** (garantindo segurança e menos bugs no código)
+- **HTML5 e CSS3** (estilização moderna e responsiva)
+- **Git e Github** para versionamento
+- **Figma** para prototipagem de UI/UX
+
+## 💻 Projeto
+
+O **Cloud To-Do** é mais que uma lista de tarefas; é um projeto desenvolvido para praticar a manipulação de estados complexos e a integração de interfaces fluidas com lógica de programação robusta em TypeScript.
+
+## 🔖 Layout
+
+O design foi seguido fielmente através do protótipo no Figma. Você pode visualizá-lo [CLICANDO AQUI](https://www.figma.com/design/MozwcZAG9QG84eQfv1YRW4/Cloud-to-do?node-id=0-1&node-type=canvas&t=lYFWTJD8JJicsHfg-0).
+
+## 🛠️ Como rodar o projeto
+
+1. Clone o repositório
+2. Execute `npm install` para instalar as dependências
+3. Use `npm run dev` para iniciar o servidor local
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
 
 ---
-<h4 align="center">
-    Feito com ☕ by <a href="https://www.linkedin.com/in/celso-de-oliveira-j%C3%BAnior-8335827b/" target="_blank">Celso de Oliveira jr</a>
-</h4>
+Feito com ☕ e foco por **Celso**
