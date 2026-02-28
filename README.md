@@ -1,48 +1,29 @@
-<h1 align="center"> Cloud to do </h1>
+☁️ Cloud To-Do List
 
-<p align="center">
-Programa exclusivo e gratuito, promovido pela Celso341 para tecnologias WEB.
-</p>
+Uma aplicação de lista de tarefas moderna desenvolvida com o objetivo de praticar a gestão de estados e a tipagem forte com TypeScript.
+🚀 Tecnologias Utilizadas
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+    React.js: Biblioteca principal para a interface.
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+    TypeScript: Para garantir a segurança e escalabilidade do código.
 
-<br>
+    Vite: Ferramenta de build de alta performance.
 
-<p align="center">
-  <img alt="Cloud to do" src=".github/preview.jpg" width="100%">
-</p>
+    CSS/Styled Components: (Confirme se usou um desses) para estilização moderna.
 
-## 🚀 Tecnologias
+🛠️ Funcionalidades
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+    Adição e remoção de tarefas em tempo real.
 
-- HTML e CSS
-- JavaScript
-- React.js
-- Git e Github
-- Figma
+    Gerenciamento de status (Concluído/Pendente).
 
-## 💻 Projeto
+    Interface responsiva para diferentes tamanhos de tela.
 
-O cloud to do é um gerenciador de tarefas e app de to do list!.
+🏁 Como rodar o projeto
+Bash
 
-## 🔖 Layout
+# Instalar dependências
+npm install
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/MozwcZAG9QG84eQfv1YRW4/Cloud-to-do?node-id=0-1&node-type=canvas&t=lYFWTJD8JJicsHfg-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Celso
+# Rodar em modo de desenvolvimento
+npm run dev
